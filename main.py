@@ -77,7 +77,7 @@ if __name__ == "__main__":
         'vqfitqmx6@inbox.ru', 'stuvchrw25@mail.ru', 'bnfxwqfu27@yandex.ru', 'irsuscqj46@aol.com',
         'oqrdtjst48@yandex.ru', 'mooqzjlx42@aol.com'
     ] #Рандом майлы для теста
-    proxy = "socks5://0iyLsMBhVIRtEBuqLoSS:RNW78Fm5@185.162.130.86:10000" #Прокси
+    proxy = "" #Прокси
 
     threads = []
     max_threads = 100
